@@ -1,5 +1,5 @@
 import java.util.*;  
-public class StackPushPopExample   
+public class PushPop   
 {  
 public static void main(String args[])   
 {  
