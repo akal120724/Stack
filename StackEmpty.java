@@ -1,5 +1,5 @@
 import java.util.Stack;  
-public class StackEmptyMethodExample  
+public class StackEmpty 
 {  
 public static void main(String[] args)   
 {  
